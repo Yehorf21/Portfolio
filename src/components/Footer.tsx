@@ -1,17 +1,17 @@
 export const Footer = () => {
   const footerIconLinks = [
     {
-      img: '/github.svg',
+      img: 'public/github.svg',
       link: 'https://github.com/Yehorf21',
     },
 
     {
-      img: '/linkedIn.svg',
+      img: 'public/linkedIn.svg',
       link: 'https://www.linkedin.com/in/yehor-feshchenko-0a0a522b5/',
     },
 
     {
-      img: '/gmail.svg',
+      img: 'public/gmail.svg',
       link: 'mailto:lenovozt3012@gmail.com',
     },
   ];

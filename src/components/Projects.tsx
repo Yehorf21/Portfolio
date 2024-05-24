@@ -1,17 +1,18 @@
 export const Projects = () => {
   const projects = [
     {
-      img: '/lumine.png',
+      img: 'public/lumine.png',
       alignment: 'left',
       title: 'Team',
       description:
-        'This was my biggest project yet. Working with a team of talented developers was a really rewarding experience for me and I cannot wait to continue co-working with people from different fields on such projects in the future. The description here is pretty long, so I can’t fit it all here. Check out my repository below for more info!',
+        '*In development* This was my biggest project yet. Working with a team of talented developers was a really rewarding experience for me and I cannot wait to continue co-working with people from different fields on such projects in the future. The description here is pretty long, so I can’t fit it all here. Check out my repository below for more info!',
+      // to be replaced once the project is ready
       demo: '#',
       gitHub: '#',
     },
 
     {
-      img: '/gadgets.png',
+      img: 'public/gadgets.png',
       alignment: 'right',
       title: 'Gadgets',
       description:
@@ -21,7 +22,7 @@ export const Projects = () => {
     },
 
     {
-      img: '/lumine.png',
+      img: 'public/lumine.png',
       alignment: 'left',
       title: 'Lumine',
       description:
@@ -31,13 +32,13 @@ export const Projects = () => {
     },
 
     {
-      img: '/potr-pots.png',
+      img: 'public/potr-pots.png',
       alignment: 'right',
       title: 'Potr-Pots',
       description:
         'This was my first “big” landing to work on. I decided to build it with React for more flexibility and my own comfort. Though some parts were tricky (especially with all the absolute positioning) it was a really creative design that I had a lot of fun building. For more details, You can check out the Readme.MD file in my repository!',
       demo: 'https://yehorf21.github.io/Potr-Pots-landing/',
-      gitHub: '',
+      gitHub: 'https://github.com/Yehorf21/Potr-Pots-landing',
     },
   ];
 

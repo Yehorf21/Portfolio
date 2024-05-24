@@ -107,6 +107,7 @@ export const Skills = () => {
       },
     });
 
+    // used intersection observer as had some issues with gsap while animating skill icons on horizontal scroll
     const observer = new IntersectionObserver(
       (entries) => {
         entries.forEach((entry) => {

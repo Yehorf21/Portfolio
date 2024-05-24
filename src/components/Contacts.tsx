@@ -31,7 +31,6 @@ export const Contacts = () => {
         method="POST"
         className="flex flex-col gap-[100px] xl:flex-row xl:justify-between items-center p-[120px] border-[5px] rounded-[50px] border-primary"
       >
-        {/* Inputs - added some custom CSS to decrease the redundancy */}
         <div className="flex flex-col gap-28">
           <input
             type="text"

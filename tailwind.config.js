@@ -46,7 +46,6 @@ export default {
         'lumine': `url('/lumine.png)`,
         'potr-pots': `url('/potr-pots.png')`,
         'roadmap': `url('/roadmap.svg')`,
-        'js': `url('/skill-icons/js.svg'`,
       },
       screens: {
         'desktop': '1440px',
