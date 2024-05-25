@@ -1,7 +1,7 @@
 export const Projects = () => {
   const projects = [
     {
-      img: 'public/lumine.png',
+      img: 'lumine.png',
       alignment: 'left',
       title: 'Team',
       description:
@@ -12,7 +12,7 @@ export const Projects = () => {
     },
 
     {
-      img: 'public/gadgets.png',
+      img: 'gadgets.png',
       alignment: 'right',
       title: 'Gadgets',
       description:
@@ -22,7 +22,7 @@ export const Projects = () => {
     },
 
     {
-      img: 'public/lumine.png',
+      img: 'lumine.png',
       alignment: 'left',
       title: 'Lumine',
       description:
@@ -32,7 +32,7 @@ export const Projects = () => {
     },
 
     {
-      img: 'public/potr-pots.png',
+      img: 'potr-pots.png',
       alignment: 'right',
       title: 'Potr-Pots',
       description:

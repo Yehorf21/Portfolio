@@ -155,7 +155,7 @@ export const Skills = () => {
               key={i}
               className="absolute bg-no-repeat bg-contain h-8 w-8 sm:h-16 sm:w-16 md:h-16 md:w-16 lg:h-20 lg:w-20 desktop:h-[100px] desktop:w-[100px] opacity-0"
               style={{
-                backgroundImage: `url('public/skill-icons/${icon}.svg')`,
+                backgroundImage: `url('skill-icons/${icon}.svg')`,
                 top: getIconTop(i),
                 bottom: getIconBottom(i),
                 left: getIconLeft(i),
