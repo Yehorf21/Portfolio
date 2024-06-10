@@ -25,9 +25,9 @@ export const Contacts = () => {
         Hit.me.up
       </h1>
 
-      {/* TO BE REPLACED WITH MY WORK EMAIL */}
+      {/* Avoided implementing back-end for now, for the sake of simplicity */}
       <form
-        action="https://formsubmit.co/mylittlespaceyf@gmail.com"
+        action="https://formsubmit.co/feshchenkoye@gmail.com"
         method="POST"
         className="flex flex-col gap-[100px] xl:flex-row xl:justify-between items-center p-[120px] border-[5px] rounded-[50px] border-primary"
       >

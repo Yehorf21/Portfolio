@@ -7,12 +7,12 @@ export const Footer = () => {
 
     {
       img: 'linkedIn.svg',
-      link: 'https://www.linkedin.com/in/yehor-feshchenko-0a0a522b5/',
+      link: 'https://www.linkedin.com/in/yehor-feshchenko-09a77a310',
     },
 
     {
       img: 'gmail.svg',
-      link: 'mailto:lenovozt3012@gmail.com',
+      link: 'mailto:feshchenkoye@gmail.com',
     },
   ];
 

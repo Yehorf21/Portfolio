@@ -17,8 +17,8 @@ export const Projects = () => {
       title: 'Gadgets',
       description:
         'I always wanted to make something “real and useful” as a web developer, so once I had enough knowledge I started working on this project. The process taught me a lot, and helped me both with my JS and CSS skills. On the backend, it was fun to create the api and connect them to the front-end. Would love to work on similar projects in the future!',
-      demo: 'https://yehorf21.github.io/react_phone-catalog/',
-      gitHub: 'https://github.com/Yehorf21/react_phone-catalog',
+      demo: 'https://yehorf21.github.io/Gadgets/',
+      gitHub: 'https://github.com/Yehorf21/Gadgets',
     },
 
     {
@@ -37,8 +37,8 @@ export const Projects = () => {
       title: 'Potr-Pots',
       description:
         'This was my first “big” landing to work on. I decided to build it with React for more flexibility and my own comfort. Though some parts were tricky (especially with all the absolute positioning) it was a really creative design that I had a lot of fun building. For more details, You can check out the Readme.MD file in my repository!',
-      demo: 'https://yehorf21.github.io/Potr-Pots-landing/',
-      gitHub: 'https://github.com/Yehorf21/Potr-Pots-landing',
+      demo: 'https://yehorf21.github.io/Potr-Pots/',
+      gitHub: 'https://github.com/Yehorf21/Potr-Pots',
     },
   ];
 
