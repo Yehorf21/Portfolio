@@ -3,9 +3,9 @@ export const Projects = () => {
     {
       img: 'lumine.png',
       alignment: 'left',
-      title: 'Team',
+      title: 'LeanIt',
       description:
-        '*In development* This was my biggest project yet. Working with a team of talented developers was a really rewarding experience for me and I cannot wait to continue co-working with people from different fields on such projects in the future. The description here is pretty long, so I can’t fit it all here. Check out my repository below for more info!',
+        `*In development* This was my biggest project yet. Working with a team of talented developers was a really rewarding experience for me and I'd love to co-work with others on similar projects. The idea here was to create a service that is both an interesting portfolio project and can also be helpful to others. Check README.MD!`,
       // to be replaced once the project is ready
       demo: '#',
       gitHub: '#',
@@ -16,7 +16,7 @@ export const Projects = () => {
       alignment: 'right',
       title: 'Gadgets',
       description:
-        'I always wanted to make something “real and useful” as a web developer, so once I had enough knowledge I started working on this project. The process taught me a lot, and helped me both with my JS and CSS skills. On the backend, it was fun to create the api and connect them to the front-end. Would love to work on similar projects in the future!',
+        'I always wanted to make something “real and practical” as a web developer, so once I had enough knowledge I started working on this project. The process taught me a lot, and helped me both with my JS and CSS skills. On the backend, it was fun creating the api and connect them to the front-end. Check out more in the README.MD!',
       demo: 'https://yehorf21.github.io/Gadgets/',
       gitHub: 'https://github.com/Yehorf21/Gadgets',
     },
