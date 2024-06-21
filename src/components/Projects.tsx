@@ -61,6 +61,7 @@ export const Projects = () => {
               className={`blob w-3/4 lg:w-full h-[300px] sm:h-[430px] lg:h-[500px] mt-36 bg-cover bg-no-repeat bg-center hover:rounded-full`}
               style={{ backgroundImage: `url(${project.img})` }}
               href={project.demo}
+              target="_blank"
             />
 
             {/* Title */}
