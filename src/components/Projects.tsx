@@ -1,14 +1,13 @@
 export const Projects = () => {
   const projects = [
     {
-      img: 'lumine.png',
+      img: 'leanit.png',
       alignment: 'left',
       title: 'LeanIt',
       description:
         `*In development* This was my biggest project yet. Working with a team of talented developers was a really rewarding experience for me and I'd love to co-work with others on similar projects. The idea here was to create a service that is both an interesting portfolio project and can also be helpful to others. Check README.MD!`,
-      // to be replaced once the project is ready
-      demo: '#',
-      gitHub: '#',
+      demo: 'https://yehorf21.github.io/Leanit-client/',
+      gitHub: 'https://github.com/Yehorf21/LeanIt-client',
     },
 
     {
