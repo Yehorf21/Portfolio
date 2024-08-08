@@ -36,21 +36,22 @@ export const AboutMe = () => {
         Dropped out of college, joined a coding boot-camp, started to grind.
         Yep, pretty much how I reached this point.
         <br /> <br />
-        My journey began in November 2023, when I finally decided to join Mate
-        academy(a Ukrainian coding boot-camp), and get enough knowledge to
-        become a fully-fledged web-developer. Having no real prior experience in
-        web dev sure took its toll - I felt lost.
+        It all started in November 2023, when I decided for myself to join Mate
+        academy(a Ukrainian coding boot-camp), and start focusing on a specific
+        field (web-development). Having no real prior experience did make things
+        harder, but where's the fun in easy learning?
         <br /> <br />
-        40 hours of study per week, an astonishing amount of info, and overwhelm
-        combined with excitement - it was fun. But because of my genuine
-        interest in coding and the opportunities it provides, I kept going.
-        “Learn fast, start slow” - is the “study motto” I adhere to. I tackled
-        basic JS, HTML and CSS, and then delved into frameworks like React.
+        40 hours of study per week, hundreds flashcards of info, and headache
+        combined with excitement - it was fun. Though, thanks to my curiousity
+        and genuine interest in the topic, I continued. “Learn fast, start slow”
+        - is the “study motto” I adhere to. I tackled basic JS, HTML and CSS,
+        and then delved into frameworks like React.
         <br /> <br />
         The boot-camp provided me with LOTS of practice and fun theory lessons
-        to broaden my knowledge. Once I familiarized myself with the
-        fundamentals of the front-end, I learned a bit of Node.js, and its
-        libraries (still have a way to go tho).
+        to broaden my knowledge. Alongside learning, I worked on different
+        projects with some of them featured in a section below. Once I
+        familiarized myself with the fundamentals of the front-end, I learned a
+        bit of Node.js, and its libraries (still have a way to go tho).
         <br /> <br />I sincerely wish to apply my knowledge in practice, and
         leave however significant mark on the industry and its consumers. Would
         love to hear from you!
