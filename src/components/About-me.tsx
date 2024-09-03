@@ -33,28 +33,32 @@ export const AboutMe = () => {
         id="about-me"
         className="text-text text-20 lg:text-28 font-secondary leading-[50px] lg:leading-[70px]"
       >
-        Dropped out of college, joined a coding boot-camp, started to grind.
-        Yep, pretty much how I reached this point.
+        Hey there, I’m Yehor - a web dev who also writes? I’m the kind of person
+        who wants to gain experience in different fields - to be versatile, so
+        to speak. I love what I’m doing. I’ve been at it for around a year now
+        and web development is sure something. 
+        <br/> <br />
+
+        I always considered myself to be a sociable and creative person, so, going into programming seemed
+        completely against who I am. “Just to spark things a bit”, I thought.
+        Little did I know, it’d suit me better than a suit I wore on prom.
+
         <br /> <br />
-        It all started in November 2023, when I decided for myself to join Mate
-        academy(a Ukrainian coding boot-camp), and start focusing on a specific
-        field (web-development). Having no real prior experience did make things
-        harder, but where's the fun in easy learning?
+
+        Development became an outlet for my thoughts and ideas. Overthinking is
+        a nasty thing, but here, it’s kind of a lifesaver, honestly. 
+        
         <br /> <br />
-        40 hours of study per week, hundreds flashcards of info, and headache
-        combined with excitement - it was fun. Though, thanks to my curiousity
-        and genuine interest in the topic, I continued. “Learn fast, start slow”
-        - is the “study motto” I adhere to. I tackled basic JS, HTML and CSS,
-        and then delved into frameworks like React.
+        I’ve worked with a team, by myself, and watched others. It’s always crazy just how
+        much more you can learn even when you feel “all-knowing”. I did 1
+        semester of uni, 9 months of a coding boot-camp, and some freelance work
+        as a cherry on top. 
+        
         <br /> <br />
-        The boot-camp provided me with LOTS of practice and fun theory lessons
-        to broaden my knowledge. Alongside learning, I worked on different
-        projects with some of them featured in a section below. Once I
-        familiarized myself with the fundamentals of the front-end, I learned a
-        bit of Node.js, and its libraries (still have a way to go tho).
-        <br /> <br />I sincerely wish to apply my knowledge in practice, and
-        leave however significant mark on the industry and its consumers. Would
-        love to hear from you!
+        As an employee, I think I’d fit into a team of
+        people who think…out-of-the-box. They consider the flaws, come up with
+        ridiculous ideas, and still create workpieces to enjoy. I think I’d feel
+        at home there
       </p>
 
       <div id="text-end" />
