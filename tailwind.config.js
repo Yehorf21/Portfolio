@@ -37,7 +37,7 @@ export default {
         '28': '28px',
         '24': '24px',
         '20': '20px',
-        '26': '16px',
+        '16': '16px',
       },
       backgroundImage: {
         'header-bg': `url('/header-bg.jpg')`,

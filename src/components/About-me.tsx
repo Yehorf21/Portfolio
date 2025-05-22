@@ -33,32 +33,30 @@ export const AboutMe = () => {
         id="about-me"
         className="text-text text-20 lg:text-28 font-secondary leading-[50px] lg:leading-[70px]"
       >
-        Hey there, I’m Yehor - a web dev who also writes? I’m the kind of person
-        who wants to gain experience in different fields - to be versatile, so
-        to speak. I love what I’m doing. I’ve been at it for around a year now
-        and web development is sure something. 
+        Hey there, I’m Yehor - a web dev with a bunch of stuff I'm into.
+        Creating, writing, reading - you name it. I've been dabbling in web development
+        for 2 years now - worked for myself, on projects, at a company. Got enough stories to share
         <br/> <br />
 
-        I always considered myself to be a sociable and creative person, so, going into programming seemed
-        completely against who I am. “Just to spark things a bit”, I thought.
-        Little did I know, it’d suit me better than a suit I wore on prom.
-
+        As I was growing up, I was always uncertain about which path I want to follow.
+        I wanted to create, not destroy. I wanted to be useful, not a burden.
+        And now I make the tools that make my resolutions real.
+        
         <br /> <br />
 
         Development became an outlet for my thoughts and ideas. Overthinking is
-        a nasty thing, but here, it’s kind of a lifesaver, honestly. 
+        a nasty thing, but here it’s kind of a lifesaver, honestly. 
         
         <br /> <br />
         I’ve worked with a team, by myself, and watched others. It’s always crazy just how
         much more you can learn even when you feel “all-knowing”. I did 1
-        semester of uni, 9 months of a coding boot-camp, and some freelance work
-        as a cherry on top. 
+        semester of uni, 9 months of a coding boot-camp, but self-study was always
+        my main way to go. In the process of building discipline, I 
+        developed qualities to perform better - and I'm growing ever since. 
         
-        <br /> <br />
-        As an employee, I think I’d fit into a team of
-        people who think…out-of-the-box. They consider the flaws, come up with
-        ridiculous ideas, and still create workpieces to enjoy. I think I’d feel
-        at home there
+        <br /><br />
+        "Sky is the limit", they say. But humans learned how to handle that one too.
+        So the limit is You - traverse it.
       </p>
 
       <div id="text-end" />
